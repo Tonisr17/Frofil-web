@@ -3,4 +3,4 @@
 hanya menggunakan HTML CSS dan single code JS.
 untuk latihan pemula belajar bikin website.
 
-video youtube: https://youtu.be/pfzyYhmeKaw
+DEMO 👁️ https://ts-ramdhon.vercel.app
